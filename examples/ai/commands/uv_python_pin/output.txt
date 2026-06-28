@@ -1,0 +1,1 @@
+Pinned `.python-version` to `3.12`

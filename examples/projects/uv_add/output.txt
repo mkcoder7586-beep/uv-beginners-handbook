@@ -1,0 +1,10 @@
+Using CPython 3.12.13
+Creating virtual environment at: .venv
+Resolved 6 packages in 1.79s
+Prepared 5 packages in 871ms
+Installed 5 packages in 502ms
+ + certifi==2026.6.17
+ + charset-normalizer==3.4.7
+ + idna==3.18
+ + requests==2.34.2
+ + urllib3==2.7.0

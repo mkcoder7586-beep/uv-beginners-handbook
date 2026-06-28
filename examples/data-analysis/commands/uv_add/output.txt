@@ -1,0 +1,20 @@
+Resolved 20 packages in 390ms
+Installed 20 packages in 220ms
+ + pandas==2.2.2
+ + numpy==1.26.4
+ + matplotlib==3.9.0
+ + seaborn==0.13.2
+ + scipy==1.13.1
+ + scikit-learn==1.5.0
+ + python-dateutil==2.9.0.post0
+ + pytz==2024.1
+ + tzdata==2024.1
+ + six==1.16.0
+ + kiwisolver==1.4.5
+ + pillow==10.3.0
+ + pyparsing==3.1.2
+ + fonttools==4.53.0
+ + cycler==0.12.1
+ + contourpy==1.2.1
+ + threadpoolctl==3.5.0
+ + joblib==1.4.2

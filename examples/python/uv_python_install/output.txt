@@ -1,0 +1,5 @@
+Downloading cpython-3.12.13-windows-x86_64-none (download) (20.9MiB)
+ Downloaded cpython-3.12.13-windows-x86_64-none (download)
+Installed Python 3.12.13 in 11.99s
+ + cpython-3.12.13-windows-x86_64-none (python3.12.exe)
+warning: `C:\Users\user\.local\bin` is not on your PATH. To use installed Python executables, run `$env:PATH = "C:\Users\user\.local\bin;$env:PATH"` or `uv python update-shell`.

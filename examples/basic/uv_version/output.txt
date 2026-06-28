@@ -1,0 +1,1 @@
+uv 0.11.25 (1fc7de7c4 2026-06-26 x86_64-pc-windows-msvc)
