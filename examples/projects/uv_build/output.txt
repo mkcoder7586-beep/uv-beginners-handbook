@@ -1,0 +1,3 @@
+Building wheel: myproject-0.1.0
+Building sdist: myproject-0.1.0
+Created 2 distributions in dist/

@@ -1,0 +1,8 @@
+============================= test session starts =============================
+platform win32 -- Python 3.11.9, pytest-8.2.2, pluggy-1.5.0
+rootdir: D:\MCP\UV\uv-beginners-handbook\examples\data-analysis
+collected 1 item
+
+tests/test_analysis.py .                                                 [100%]
+
+============================== 1 passed in 0.15s ==============================

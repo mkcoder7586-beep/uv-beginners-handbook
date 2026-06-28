@@ -1,0 +1,8 @@
+============================= test session starts =============================
+platform win32 -- Python 3.12.13, pytest-8.2.2, pluggy-1.5.0
+rootdir: D:\MCP\UV\uv-beginners-handbook\examples\ai
+collected 2 items
+
+tests/test_main.py ..                                                    [100%]
+
+============================== 2 passed in 0.23s ==============================

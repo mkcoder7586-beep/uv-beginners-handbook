@@ -1,0 +1,10 @@
+Resolved 8 packages in 180ms
+Installed 8 packages in 90ms
+ + pytest==8.2.2
+ + black==24.4.2
+ + ruff==0.4.10
+ + colorama==0.4.6
+ + iniconfig==2.0.0
+ + packaging==24.1
+ + pluggy==1.5.0
+ + exceptiongroup==1.2.1

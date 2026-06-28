@@ -1,0 +1,1 @@
+uv add --dev pytest pytest-asyncio black ruff mypy

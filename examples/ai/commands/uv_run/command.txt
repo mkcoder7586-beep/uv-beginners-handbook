@@ -1,0 +1,1 @@
+uv run python src/ai_chatbot/main.py
